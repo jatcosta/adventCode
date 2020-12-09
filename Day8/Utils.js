@@ -48,9 +48,6 @@ function getAccumulatorBeforeLoop(input) {
   return accumulator;
 }
 
-function getEmptyArray() {
-  return [];
-}
 function getAccumulatorBeforeLoopIgnoreBadOperation(input) {
   let accumulator = 0;
   var visited = [];

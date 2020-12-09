@@ -4,7 +4,7 @@ const path = require("path");
 
 var Utils = require("./Utils");
 
-describe("Day7", function () {
+describe("Day8", function () {
   describe("getAccumulatorBeforeLoop", function () {
     it("should return the expected accumulator value", function () {
       var lines = require("fs")
